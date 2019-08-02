@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\期末\kinect_robot\Lab4_new_sdk_WF\bin\Debug\Lab4_new_sdk_WF.exe
+C:\Users\user\Desktop\期末\kinect_robot\Lab4_new_sdk_WF\bin\Debug\Lab4_new_sdk_WF.pdb
+C:\Users\user\Desktop\期末\kinect_robot\Lab4_new_sdk_WF\obj\x86\Debug\Lab4_new_sdk_WF.MainWindow.resources
+C:\Users\user\Desktop\期末\kinect_robot\Lab4_new_sdk_WF\obj\x86\Debug\Lab4_new_sdk_WF.SettingParameter.resources
+C:\Users\user\Desktop\期末\kinect_robot\Lab4_new_sdk_WF\obj\x86\Debug\Lab4_new_sdk_WF.Properties.Resources.resources
+C:\Users\user\Desktop\期末\kinect_robot\Lab4_new_sdk_WF\obj\x86\Debug\Robot.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\期末\kinect_robot\Lab4_new_sdk_WF\obj\x86\Debug\Lab4_new_sdk_WF.exe
+C:\Users\user\Desktop\期末\kinect_robot\Lab4_new_sdk_WF\obj\x86\Debug\Lab4_new_sdk_WF.pdb
+C:\Users\user\Desktop\期末\kinect_robot\Lab4_new_sdk_WF\obj\x86\Debug\Robot.csprojResolveAssemblyReference.cache

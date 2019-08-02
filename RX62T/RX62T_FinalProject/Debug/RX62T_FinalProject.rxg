@@ -1,0 +1,3 @@
+-cpu=rx600
+-output="C:\Users\user\Desktop\´Á¥½\WorkSpace\RX62T_FinalProject\RX62T_FinalProject\Debug\RX62T_FinalProject.lib"
+-head=runtime,math,stdio,stdlib,string,new

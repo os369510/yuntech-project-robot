@@ -1,0 +1,4 @@
+COM5
+9600
+None
+One

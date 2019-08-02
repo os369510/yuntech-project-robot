@@ -1,0 +1,7 @@
+-cpu=rx600
+-lang=c
+-include="C:\WorkSpace\RX62T_FinalProject\RX62T_FinalProject\RX62T_FinalProject","C:\WorkSpace\RX62T_FinalProject\RX62T_FinalProject\RX62T_FinalProject\i_src"
+-output=obj="C:\Users\user\Desktop\´Á¥½\WorkSpace\RX62T_FinalProject\RX62T_FinalProject\Debug\R_PG_Clock.obj"
+-debug
+"C:\Users\user\Desktop\´Á¥½\WorkSpace\RX62T_FinalProject\RX62T_FinalProject\RX62T_FinalProject\SYSTEM\R_PG_Clock.c"
+-nologo
